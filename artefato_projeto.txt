@@ -1,0 +1,1 @@
+Arquivo criado para atividade prática de gerenciamento de configuração da disciplina Projeto de Software.
