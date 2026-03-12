@@ -1,1 +1,3 @@
 Arquivo criado para atividade prática de gerenciamento de configuração da disciplina Projeto de Software.
+Arquivo criado para atividade prática de gerenciamento de configuração da disciplina Projeto de Software.
+Modificação realizada para demonstrar atualização de artefato no repositório.
